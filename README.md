@@ -1,3 +1,6 @@
+# No Maintenance Intended
+
+Unfortunately due to time constraints, it's not possible for me to actively maintain `react-native-event-bridge` anymore.
 
 # react-native-event-bridge
 
